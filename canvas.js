@@ -131,7 +131,7 @@ function animate() {
 
   ctx.beginPath();
   ctx.lineWidth = 5;
-  ctx.strokeStyle = "#BDD7EE";
+  ctx.strokeStyle = "#E66C00";
   ctx.moveTo(M.x, M.y);
   ctx.lineTo(N.x, N.y);
   ctx.stroke();
